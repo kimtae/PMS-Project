@@ -10,15 +10,28 @@
 - 개발자로 사용자층을 정하고 개발관련 프로젝트 진행절차를 관리해주는 일정관리 프로그램 만들기를 기획했습니다.
 - 진행중인 프로젝트, 종료된 프로젝트 등 전체 프로젝트에 대한 일정과 산출물 등을 간편한 UI를 통해 보다 쉽게 확인할 수 있도록 기획했습니다.
 
+
+
+</br>
+</br>
+
 > ## 개발기간 및 :wrench:사용 기술  
 ### :calendar:기간:2023.05.26 ~ 2023.06.09 
-
 
 ### ✔️Frond-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 ### ✔️Back-end
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<br/>
+</br>
+</br>
+</br>
+
+
+
+> ## :couple: 팀원 역할분배
+<p align="center"><img src="https://github.com/ukkkk7/PMS-Project/assets/117158625/8e92246e-b0f4-475e-9e7b-9bfc001403f9" width="550" height="400"/></p> 
+
+</br></br></br>
 
 
 > ## :keyboard:DB 설계
