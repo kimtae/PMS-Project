@@ -27,13 +27,6 @@
 </br>
 
 
-
-> ## :couple: 팀원 역할분배
-<p align="center"><img src="https://github.com/ukkkk7/PMS-Project/assets/117158625/8e92246e-b0f4-475e-9e7b-9bfc001403f9" width="550" height="400"/></p> 
-
-</br></br>
-
-
 > ## :keyboard:DB 설계
 <p align="center"><img src="https://github.com/ukkkk7/PMS-Project/assets/117158625/304795d2-d019-43c9-944a-134d77cb1632" width="550" height="400"/></p>   
 
